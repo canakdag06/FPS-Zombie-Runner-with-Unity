@@ -1,7 +1,7 @@
 # FPS-Zombie-Runner-with-Unity
 A First Person Shooter I made following Rick Davidson's course on Udemy/GameDev.tv
 
-Youtube link for the demo: https://youtu.be/OcuCukvZ8Yo
+Youtube link for the demo: https://youtu.be/m6vM3oRoahk
 
 What's in this project?:
 - FPS Controller (Will be uptaded in the future)
